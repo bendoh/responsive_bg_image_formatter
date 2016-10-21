@@ -1,9 +1,6 @@
 -- SUMMARY --
 
-The Responsive Background Image Formatter allows site administrators to use
-the responsive image sizes to create images that are displayed responsively
-in container backgrounds via CSS. This allows purely decorative elements to be
-displayed at a variety of sizes with optimal bandwidth usage.
+The Responsive Background Image Formatter allows site administrators to use the responsive image sizes to create images that are displayed responsivelyin container backgrounds via CSS. This allows purely decorative elements to be displayed at a variety of sizes with optimal bandwidth usage.
 
 For a full description of the module, visit the project page:
   http://drupal.org/project/responsive_bg_image_formatter
