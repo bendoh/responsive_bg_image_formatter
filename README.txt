@@ -36,5 +36,5 @@ Current maintainers:
 
 This project has been sponsored by:
 * Oomph, Inc
-  A digital design and strategy agency specializing in Drupal projects, based
-	in Providence, RI. Visit us at https://www.oomphinc.com
+  A digital design and strategy agency specializing in Drupal projects,
+	based in Providence, RI. Visit us at https://www.oomphinc.com
